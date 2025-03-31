@@ -1,9 +1,8 @@
-Business Analytics Student Survey
+# Business Analytics Student Survey
 
-    <div class="section">
-        <h2>Project Description</h2>
-        <p>The Business Analytics Student Survey is a web-based form designed to collect information from Business Analytics and Information Systems (BAIS) students about their academic progress, including their year level and completed core courses. The form implements modern web design principles to ensure usability, accessibility, and data integrity.</p>
-    </div>
+## Project Description
+        The Business Analytics Student Survey is a web-based form designed to collect information from Business Analytics and Information Systems (BAIS) students about their academic progress, including their year level and completed core courses. The form implements modern web design principles to ensure usability, accessibility, and data integrity.
+ 
 
     <div class="section">
         <h2>Form Best Practices</h2>
