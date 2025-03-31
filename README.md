@@ -12,7 +12,7 @@
 
 <p>The form is built with Bootstrap's responsive framework, ensuring it displays properly across different device sizes and screen resolutions. Input elements like radio buttons and checkboxes are sized appropriately to be easily clickable on touch screens, and the submission button is prominently displayed with both text and an icon to improve recognition.</p>
 
-## User Adcessibility
+## User Accessibility
 <p>The form is designed with accessibility as a core consideration, implementing several features to ensure all users can complete the survey regardless of ability:</p>
         
 <p>The form uses semantic HTML elements making it navigable via screen readers and keyboard controls. All form elements have appropriate ARIA attributes where needed, and color is not used as the sole indicator of meaning (required fields use both color and an asterisk symbol). The form validation provides clear error messages that are accessible to screen reader users, and the layout maintains sufficient color contrast ratios for text readability. Additionally, the submission button uses both text and an icon from Font Awesome, providing multiple ways to understand its purpose, and Bootstrap's focus states ensure that keyboard users can clearly see which element is currently active.</p>
